@@ -34,8 +34,8 @@ app.secret_key = 'development key 123456789'
 app.config["MAIL_SERVER"] = "smtp.gmail.com"
 app.config["MAIL_PORT"] = 465
 app.config["MAIL_USE_SSL"] = True
-app.config["MAIL_USERNAME"] = 'experimentalacc64@gmail.com'
-app.config["MAIL_PASSWORD"] = '#1998@EXPp'
+app.config["MAIL_USERNAME"] = '***********@gmail.com'
+app.config["MAIL_PASSWORD"] = '**********'
 
 mail.init_app(app)
 
