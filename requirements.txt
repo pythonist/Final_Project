@@ -1,0 +1,15 @@
+Flask
+h5py
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+numpy
+Keras
+tensorflow-cpu
+opencv-python
+Flask-Mail
+flask-wtf
+pillow
+gevent
